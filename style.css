@@ -37,3 +37,8 @@ body{
     max-width: 500px;
     max-height: 500px;
   }
+  .dark-mode {
+    --clr-light: rgb(0, 0, 0);
+    --clr-dark: rgb(255, 255, 255);
+      
+  }
