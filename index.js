@@ -8,3 +8,25 @@ document.addEventListener('DOMContentLoaded', () => {
         form.reset()
     })
 })
+
+const handleSubmit = (value) => {
+
+    let title = document.querySelector("#berserkData h1")
+    let summary = document.querySelector('#summary')
+    let summary1 = document.querySelector('#summary1')
+    let img = document.querySelector('#img1')
+    let details = document.querySelector('#details')
+    let details1 = document.querySelector('#details1')
+  
+    fetch(`http://localhost:3000/Database/${value}`)
+    .then(res => res.json())
+    .then(val => {
+        title.innerText = val.title
+        summary.innerText = val.summary
+        summary1.innerText = val.summary1
+        img.src = val.imgURL
+        details.innerText = val.details
+        details1.innerText = val.details1
+    })
+  }
+  
