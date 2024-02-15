@@ -22,5 +22,13 @@ body{
     text-align: center;
     font-size: 25px;
     font-family: 'Cambria';
+  }
 
+  #foot {
+    background-color: rgb(255, 255, 255);
+  }
+
+  #img1 {
+    max-width: 500px;
+    max-height: 500px;
   }
