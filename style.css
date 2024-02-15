@@ -6,3 +6,21 @@ body{
     margin: 1em;
     list-style: none;
   }
+
+  section {
+    bottom: 40px;
+    justify-content: space-around;
+    background-color: rgb(198, 13, 48);
+    padding-bottom: 20px;
+  }
+
+  #berserkData {
+    margin: 0;
+    padding: 10px;
+    background-color: var(--clr-light);
+    color: var(--clr-dark);
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Cambria';
+
+  }
