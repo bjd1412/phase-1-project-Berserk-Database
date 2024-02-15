@@ -8,6 +8,31 @@
         "imgURL": "https://i.redd.it/udjnpyxjsro31.png",
         "details": "Guts, also known as the Black Swordsman, is a master warrior and raid leader endowed with supernatural abilities. He possesses superhuman speed, strength, and endurance, along with the ability to detect and combat evil spirits and demons due to the Brand of Sacrifice. With the Berserker Armor, he gains enhanced power, though its prolonged use risks his destruction. With the aid of Schierke, a skilled witch, he can better control the armor's abilities and confront the darkest threats to his world.",
         "details1": "Guts' mastery of swordsmanship transcends ordinary levels, evident in his ability to wield colossal swords with finesse and precision. His prowess shines in battles against demonic adversaries, showcasing his unmatched skill. Proficient in various bladed weapons, Guts also demonstrates expertise in complex firearms and excels as an equestrian. Despite his imposing stature, he possesses remarkable speed, agility, and dexterity, enabling him to swiftly dispatch multiple foes in combat."
-    }
+    },
+    {
+        "id": "Casca",
+        "title": "Casca",
+        "summary": "Originally a humble peasant girl from a remote mountain village, she transforms into a skilled warrior upon joining the Band of the Falcon, contributing significantly to the group's triumphs during the Hundred-Year War. After Guts' departure and Griffith's imprisonment, she assumes leadership of the band, preventing its total demise and rescuing Griffith from captivity at the Tower of Rebirth. However, following Griffith's transformation into the malevolent Femto during the Eclipse, she suffers a horrifying ordeal, enduring assault and trauma that left her mentally and emotionally shattered, regressing into a  mute and infantile state.",
+        "summary1": "To heal Casca's fractured mind, Guts and his companions embark on a journey to Elfhelm. Through the Corridor of Dreams ritual facilitated by the Flower Storm Monarch and assisted by Schierke and Farnese, Casca's mental state is largely restored. However, tragically, she now struggles with debilitating anxiety, and panic attacks, triggered by face-to-face encounters with Guts, evoking memories of the traumatic Eclipse event.",
+        "imgURL": "https://preview.redd.it/ec7g5cau2yh31.jpg?width=1080&crop=smart&auto=webp&s=2677c6cedcf61c7b0ead3f32d2210fc0c1ed03ee",
+        "details": "Casca exhibits exceptional skill in swordsmanship, favoring a short broadsword with which she dispatches multiple adversaries effortlessly. She demonstrates agility and combat prowess, capable of keeping pace with Guts and evading attacks from formidable opponents like Silat. During the Eclipse, she bravely fends off weaker Apostles before being outnumbered. Regarded as one of the most skilled swordsmen among the Hawks, second only to Griffith until Guts' arrival.",
+        "details1": "Casca's true strength lies in her remarkable mental fortitude, unwavering loyalty, and indomitable will. In the aftermath of Griffith's transformation, it was her quick wit and resolute temperament that held the Hawks together as wanted outlaws facing extermination. Despite her mental regression following the Eclipse, it was her sheer willpower that sustained her through the darkest moments, even before her violation by Femto. As the story unfolds, her inner strength enables her to confront and overcome the traumatic memories, persisting through bouts of anguish with resilience and determination."
+      },
+      {
+        "id": "Griffith",
+        "title": "Griffith",
+        "summary": "Griffith is the founder and leader of the renowned mercenary army, the Band of the Hawk. He and his army played a pivotal role in the Hundred Year War, bringing peace to the war-torn kingdom of Midland. Once a close friend and ally of Guts, their bond fractured following Guts's departure from the group. Soon after, Griffith was imprisoned and tortured due to having relations with the Midland princess . Desperate for power and vengeance, Griffith orchestrated the Eclipse, sacrificing his entire army and transforming into Femto, the fifth and final member of the God Hand. He emerges as Guts' arch-nemesis, fueling their bitter rivalry.",
+        "summary1":"Griffith, now leader of the reborn Band of the Hawk and the supreme commander of the Midland Regular Army, holds a prestigious position as a revered figure known as the 'Falcon of Light'. Renowned across the continent for his leadership in numerous battles, Griffith has earned a reputation as a savior among the people.",
+        "imgURL": "https://preview.redd.it/opmfm59tvby61.png?width=1080&crop=smart&auto=webp&s=0a36c40b6eec032834820fc14c4fd74635af94d8",
+        "details": "Griffith's character embodies complexity, initially portrayed as fair, somewhat honorable, and straightforward, yet harboring traits of opportunism, ambition, and a hunger for power. Despite his serious demeanor, he displays a playful side, particularly evident in his interactions with Casca and Guts. However, beneath this facade lies a darker nature characterized by possessiveness, narcissism, manipulation, and viciousness. His obsessive nature becomes glaringly apparent as he prioritizes his desires above all else, even resorting to violence to maintain control, as seen in his willingness to strike down Guts rather than let him depart.",
+        "details1": "Griffith always excelled as a master swordsman, and expert in hand-to-hand combat. His natural charisma and leadership skills allow him to both attract all who is near him, as well as dominate any battlefield as a master tactician. As Femto, he has become a being of absolute power. Able to use telekinesis, spatial manipulation, can both see and control the fate of others, teleportation, reality manipulation, and invulnerability. He also possesses supernatural charisma, able to charm most people, causing them to completely fall under his manipulation." 
+      }
+
+
+
+
+
+
+
 ]
 }
