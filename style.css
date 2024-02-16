@@ -20,7 +20,7 @@ body{
   }
 
   #berserkData {
-    margin: 0;
+    margin: 10;
     padding: 10px;
     background-color: var(--clr-light);
     color: var(--clr-dark);
@@ -41,4 +41,10 @@ body{
     --clr-light: rgb(0, 0, 0);
     --clr-dark: rgb(255, 255, 255);
       
+  }
+
+  #keyE {
+   margin:0;
+   padding:0;
+   margin-right: 80%;
   }
