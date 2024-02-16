@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener("keydown", checkKeyPress);
 })
 
+
 let bserkDarkMode = false;
 const toggleDarkMode = () => {
   let element = document.querySelector('#berserkData');
@@ -17,7 +18,7 @@ const toggleDarkMode = () => {
 }
 
 const checkKeyPress = (key) => {
-  if (key.keyCode === 70) { //"F" has been pressed
+  if (key.keyCode === 69) { 
     bserkDarkMode = !bserkDarkMode;
     console.log("Berserk Dark mode: " + bserkDarkMode);
     toggleDarkMode();
