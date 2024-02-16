@@ -56,6 +56,7 @@ const handleSubmit = (value) => {
     }
     }
 
-    berserkFacts = []
+    berserkFacts = ['Casca\'s english voice actor in the 1997 anime is Carrie Keranen, voice of Lux in Leage of Legends.',
+    'Guts almost used a katana as his main weapon before Kantaro Miura settled on his signature Dragon Slayer greatsword', 'Farnese\'s name originates from medieval italy, and belonged to aristocrats and the wealthy alike.',]
     
     const factFilter
