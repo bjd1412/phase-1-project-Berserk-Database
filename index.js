@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
       console.log(val)
         handleSubmit(val)
         form.reset()
+        factFilter(val)
     })
     window.addEventListener("keydown", checkKeyPress);
     
@@ -61,4 +62,11 @@ const handleSubmit = (value) => {
     "Griffith\'s androgyny seems to be no mere coincidence. Kentaro Miura being well versed in mythology and theology, he likely made Griffith both masculine and feminine, which is a representation of perfection in many religious beliefs and mythologies.",
     "Isidro means 'Gift of Isis', and is a very popular spanish name of egyptian and greek origin."]
     
-    const factFilter
+    const factFilter = (value) => {
+      p = document.querySelector('#fact')
+      berserkFacts.filter(fact => {
+        if(fact.startsWith(value)) {
+          p.textContent = `Fact: ${fact}`
+        }
+      } )
+    }
