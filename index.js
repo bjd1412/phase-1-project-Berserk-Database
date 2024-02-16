@@ -7,7 +7,22 @@ document.addEventListener('DOMContentLoaded', () => {
         handleSubmit(val)
         form.reset()
     })
+    window.addEventListener("keydown", checkKeyPress);
 })
+
+let bserkDarkMode = false;
+const toggleDarkMode = () => {
+  let element = document.querySelector('#berserkData');
+  element.classList.toggle("dark-mode");
+}
+
+const checkKeyPress = (key) => {
+  if (key.keyCode === 70) { //"F" has been pressed
+    bserkDarkMode = !bserkDarkMode;
+    console.log("Berserk Dark mode: " + bserkDarkMode);
+    toggleDarkMode();
+  }
+};
 
 const handleSubmit = (value) => {
 
