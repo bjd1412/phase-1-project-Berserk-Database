@@ -55,3 +55,7 @@ const handleSubmit = (value) => {
       change.src ="https://i.guim.co.uk/img/media/0564caa6e98239db85eb91f7bbbdc8e5097e809d/1_0_732_439/master/732.jpg?width=1200&quality=85&auto=format&fit=max&s=b1a70c9df7d5a1371c475b3312af98ed"
     }
     }
+
+    berserkFacts = []
+    
+    const factFilter
