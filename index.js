@@ -58,6 +58,7 @@ const handleSubmit = (value) => {
 
     berserkFacts = ['Casca\'s english voice actor in the 1997 anime is Carrie Keranen, voice of Lux in Leage of Legends.',
     'Guts almost used a katana as his main weapon before Kantaro Miura settled on his signature Dragon Slayer greatsword', 'Farnese\'s name originates from medieval italy, and belonged to aristocrats and the wealthy alike.',
-    "Griffith\'s androgyny seems to be no mere coincidence. Kentaro Miura being well versed in mythology and theology, he likely made Griffith both masculine and feminine, which is a representation of perfection in many religious beliefs and mythologies."]
+    "Griffith\'s androgyny seems to be no mere coincidence. Kentaro Miura being well versed in mythology and theology, he likely made Griffith both masculine and feminine, which is a representation of perfection in many religious beliefs and mythologies.",
+    "Isidro means 'Gift of Isis', and is a very popular spanish name of egyptian and greek origin."]
     
     const factFilter
