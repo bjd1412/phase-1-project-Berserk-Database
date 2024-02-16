@@ -18,10 +18,12 @@ const toggleDarkMode = () => {
 }
 
 const checkKeyPress = (key) => {
+    eclipse = document.querySelector('#keyE')
   if (key.keyCode === 69) { 
     bserkDarkMode = !bserkDarkMode;
     console.log("Berserk Dark mode: " + bserkDarkMode);
     toggleDarkMode();
+
   }
 };
 
