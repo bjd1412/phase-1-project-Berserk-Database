@@ -19,7 +19,6 @@ let element = document.querySelector('#berserkData');
 element.classList.toggle("dark-mode");
 }
 const checkKeyPress = (key) => {
-    eclipse = document.querySelector('#keyE')
   if (key.keyCode === 69) { 
     bserkDarkMode = !bserkDarkMode;
     console.log("Berserk Dark mode: " + bserkDarkMode);
