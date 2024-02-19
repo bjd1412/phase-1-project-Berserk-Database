@@ -3,22 +3,22 @@ This is a fan made application and database that contains all the important and 
 
 This app was created with accessibility in mind and made simple to use for both old and new fans.
 
-##How To Use
+## How To Use
 
 The **Berserk Database** is very simple to use:
 
-#####step 1: 
+##### step 1: 
 Click on the search bar and enter the name of the character that you wish to learn more about.
 ![ReferenceGif](/gifs/Type.gif)
 
-#####step 2: 
+##### step 2: 
 Click the submit button, its that simple.
 ![ReferenceGif](/gifs/Submit.gif)
 
 
 If a character you want to learn about does not show up after following these steps, they have most likely not been added to the database yet. Please be patient, as the applocation is being updated regualarly to include **everything**.
 
-##Features
+## Features
 
 - **Dark Mode**
 Press the E key to activate dark mode.
