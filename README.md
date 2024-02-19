@@ -9,9 +9,11 @@ The **Berserk Database** is very simple to use:
 
 #####step 1: 
 Click on the search bar and enter the name of the character that you wish to learn more about.
+![ReferenceGif](/gifs/Type.gif)
 
 #####step 2: 
 Click the submit button, its that simple.
+![ReferenceGif](/gifs/Submit.gif)
 
 
 If a character you want to learn about does not show up after following these steps, they have most likely not been added to the database yet. Please be patient, as the applocation is being updated regualarly to include **everything**.
@@ -30,7 +32,6 @@ As you know, Kentaro Miura has tragically passed away. To honor and pay respect 
 -RoboticSumBitch
 -connoissewer
 -LeGrandRupee
-
 
 
 
